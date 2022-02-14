@@ -53,7 +53,7 @@ btn15.addEventListener('click', ()=> {
   console.log(inputValuesJoined);
 })
 
-const quote = 'I LOVE YOU TOO';
+const quote = 'LOVE YOU TOO';
 
 btn16.addEventListener('click', ()=> {
   console.log(textBox.innerText);
