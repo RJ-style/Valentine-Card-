@@ -266,11 +266,11 @@ button:active,#dlt:active{
   position: absolute;
   top: 50%;
   left: 50%;
-  transform: translate(-50%,600%);
+  transform: translate(-50%,1200%);
   color: whitesmoke;
   display: none;
   background: #e77bb7;
-  padding: 1rem;
+  padding: 0.3rem;
 }
 #hint.show{
   display: block;
